@@ -8,8 +8,14 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "profile": [
+    {
     "user_name": "HuongNT",
     "password": "123456"
-  }
+    },
+    {
+    "user_name": "Alan",
+    "password": "654321"
+    }
+  ]
 }
